@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1932489e-7ad7-4902-b0d7-15fabb5b486f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k3FlXNiI3VU9rsMzV40mEmRy3v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controller" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Xampp\htdocs\healthone\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\healthone\documenten" />
+      <recent name="C:\xampp\htdocs\healthone\view" />
+      <recent name="C:\xampp\htdocs\healthone\model" />
+      <recent name="C:\xampp\htdocs\healthone\controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1932489e-7ad7-4902-b0d7-15fabb5b486f" name="Default Changelist" comment="" />
+      <created>1604921520637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604921520637</updated>
+      <workItem from="1604921522332" duration="3453000" />
+      <workItem from="1605107687333" duration="1494000" />
+      <workItem from="1605187169314" duration="3568000" />
+      <workItem from="1605197138563" duration="98000" />
+      <workItem from="1605197268402" duration="4279000" />
+      <workItem from="1605275858014" duration="7545000" />
+      <workItem from="1605296073143" duration="583000" />
+      <workItem from="1605368214384" duration="4466000" />
+      <workItem from="1605479506979" duration="989000" />
+      <workItem from="1605526383074" duration="5372000" />
+      <workItem from="1605789553676" duration="10809000" />
+      <workItem from="1606065560678" duration="704000" />
+      <workItem from="1606130341495" duration="1574000" />
+      <workItem from="1606310353922" duration="6386000" />
+      <workItem from="1606500913707" duration="5240000" />
+      <workItem from="1606570370898" duration="14273000" />
+      <workItem from="1606603794440" duration="5848000" />
+      <workItem from="1606656108236" duration="4029000" />
+      <workItem from="1606669277137" duration="566000" />
+      <workItem from="1606738541155" duration="534000" />
+      <workItem from="1606753852048" duration="3725000" />
+      <workItem from="1607644884867" duration="324000" />
+      <workItem from="1607647701861" duration="2946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
